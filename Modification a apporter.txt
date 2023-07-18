@@ -1,0 +1,9 @@
+Modification a apporter au CV
+
+-Les éléments listés doivent être sous forme de liste à Puce.
+-Revoir la mise en forme complète du document.
+-Insérer une image servant de photo de profil et modifier la mise en forme de l'entête
+-Chaque titre doit être souligné
+-Inserer un menu non fonctionnelle pour présenter les pages (Mon site, Mon entreprise, Mes projets).
+-Souligner les titres uniquement au passage de la souris avec l'animation montrant le trait se tracer
+-Agrandir légerement la photo de profil au survol.
