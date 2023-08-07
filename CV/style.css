@@ -1,0 +1,42 @@
+h2{
+    
+    
+    padding: 5px 25px;
+    display: inline-block;
+}
+h2::after{
+    content: "";
+    position: relative;
+    display: block;
+    height: 2px;
+    width: 100%;
+    background: #000;
+    transform: scale(0);
+    transform-origin: left;
+    transition: all 0.3s ease-in-out;
+}
+h2:hover::after{
+    transform: scale(1);   
+}
+.clg{
+    color:red;
+}
+div{
+    padding-left: 20px;
+}
+.entete{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.pdpa:hover{
+    transform: scale(1.2);  
+}
+.t{
+    
+    list-style-image: url(images/puce.png);
+}
+nav{
+    display: flex;
+    flex-direction: row;
+}
